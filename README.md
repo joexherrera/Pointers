@@ -1,5 +1,65 @@
-Distributions to Beneficiaries
+California - Source Income and Deduction Apportionment
 
-Was the trust required to make any distributions, regardless of whether the amount was actually paid out, to its beneficiaries in 2025?
+Enter the portion of total income that is considered non-California source income.
 
-Distributions are dispersed by the fiduciary according to the trust document. Distributions to the beneficiaries can be any combination of income earned in 2025 and from original assets left by the decedent or maker of the trust.
+ 
+Interest
+
+Total income
+$0
+Non-California source income
+$
+ 
+Dividends
+
+Total income
+$0
+Non-California source income
+$
+ 
+Business income
+
+Total income
+$0
+Non-California source income
+$
+ 
+Capital gain
+
+Total income
+$-2,081
+Non-California source income
+$
+ 
+Rents, royalties, etc.
+
+Total income
+$0
+Non-California source income
+$
+ 
+Farm income
+
+Total income
+$0
+Non-California source income
+$
+ 
+Ordinary gain
+
+Total income
+$0
+Non-California source income
+$
+ 
+Other income
+
+Total income
+$0
+Non-California source income
+$
+ 
+
+Back
+
+Continue
